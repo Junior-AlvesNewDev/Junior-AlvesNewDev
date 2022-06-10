@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá sou Junior Alves!👋
 
 <!--
 **Junior-AlvesNewDev/Junior-AlvesNewDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<code><img height="150" src="https://github-readme-stats.vercel.app/api?username=fabio-franca&layout=compact&langs_count=7&theme=dracula"></code>
